@@ -42,6 +42,14 @@ header div nav ul li a:hover {
     background-color: #ff8a00;
 }
 
+.section-1 h1{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin-bottom: 20px;
+ font-size: 2rem;
+}
+
 .div-carnes {
     display: flex;
     justify-content: space-evenly;
@@ -118,6 +126,18 @@ header div nav ul li a:hover {
     border-radius: 20px;
     background-color: #fabe2848;
     padding: 15px;
+}
+
+.section-2 p{
+    font-size: 20px;
+    color:black;
+    font-weight: 700;
+}
+
+.section-2 button{
+    width: auto;
+    height: 2rem;
+    border-radius: 10px;
 }
 
 /*FIM DA SECTION 2*/
